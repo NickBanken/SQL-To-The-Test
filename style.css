@@ -1,0 +1,42 @@
+
+body{
+    background-color: #2c2833;
+}
+.jumbotron{
+    margin:auto;
+    background-color: #2c2833;
+}
+
+.btn-primary{
+    background-color:#ED4C67;
+    border: #ED4C67;
+    padding: 10px 250px
+}
+
+.btn-primary:hover{
+    background-color:rgb(243, 98, 123);
+    border: #ED4C67;
+    padding: 10px 250px;
+}
+
+a:link,a:visited,a:active {
+    color: #ED4C67;
+    transition: 0.3s;
+  }
+
+a:hover{
+    text-decoration: none;
+    color:rgb(248, 101, 126);
+}
+
+h1{
+    font-size: 300%;
+}
+
+.page{
+    height: 100vh;
+}
+
+.greet{
+    margin-right: 140px;
+}
